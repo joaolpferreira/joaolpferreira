@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ### :trophy: **My GitHub Status:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolpferreira&hide=jupyternotebook&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolpferreira&hde=jupyternotebook&theme=tokyonight)
